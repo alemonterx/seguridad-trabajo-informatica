@@ -8,10 +8,10 @@ Son aquellas circunstancias que pueden producir un peligro en el desarrollo de u
 Estos factores de riesgo dependen mucho del tipo de trabajo en el que se desempeñen, ya que los daños que causan son de una gravedad diferente. Por ejemplo, no es lo mismo el riesgo laboral que tiene un técnico informático que un albañil de obras de grandes estructuras. En el primer caso puede ocurrir algo como un tropiezo con el mobiliario que tiene un peligro muy bajo, en cambio, en el segundo caso el hecho de no llevar casco puede conllevar a que la gravedad sea mucho mayor.
 
 ## 2. Factores de riesgo:
-* *Local de trabajo:* Instalación eléctrica, instalación de gas, prevención de incendios, ventilación, temperaturas, etc.
-* *Organización del trabajo:* Administrar la carga física y/o mental, organizar y planificar el trabajo, la monotonía, la ausencia de creatividad, el aislamiento, etc.
-* *Tipo de actividad:* En este factor lo que influye los equipos de trabajo que se utilicen como la labor que realizan.
-* *Materias primas:* Materiales inflamables, productos químicos, etc.
+* **Local de trabajo:** Instalación eléctrica, instalación de gas, prevención de incendios, ventilación, temperaturas, etc.
+* **Organización del trabajo:** Administrar la carga física y/o mental, organizar y planificar el trabajo, la monotonía, la ausencia de creatividad, el aislamiento, etc.
+* **Tipo de actividad:** En este factor lo que influye los equipos de trabajo que se utilicen como la labor que realizan.
+* **Materias primas:** Materiales inflamables, productos químicos, etc.
 
 ## 3. ¿Comó evitarlos?
 Estos accidentes causados por los riesgos laborales pueden evitarse o reducir su impacto tomando una serie de precauciones. También es cierto que las empresas deben de tener previsto todos esos peligros que pueden suceder creando un plan de prevención de riesgos laborales, con una serie de protocolos para poder prevenirlos y saber como actuar en caso de que se produzca algún accidente.
