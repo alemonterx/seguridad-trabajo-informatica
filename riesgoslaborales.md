@@ -7,4 +7,5 @@ Estos factores de riesgo dependen mucho del tipo de trabajo en el que se desempe
 3. ¿Comó evitarlos?
 # REFERENCIAS
 [www.beedigital.es](https://www.beedigital.es/prevencion-riesgos/que-es-el-riesgo-laboral-definicion-y-como-evitarlo/)
+
 [www.isotools.us](https://www.isotools.us/2015/09/10/riesgo-laboral-definicion-y-conceptos-basicos/)
