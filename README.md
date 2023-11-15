@@ -1,4 +1,5 @@
 # SEGURIDAD EN EL TRABAJO
+[![Forks](https://github.com/alemonterx/seguridad-trabajo-informatica/forks)]
 
 ![Portada](img/portada.jpg)
 
