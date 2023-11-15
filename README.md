@@ -2,6 +2,8 @@
 
 ![Portada](img/portada.jpg)
 
+> En este proyecto vamos a hablar de los diferentes riesgos laborales que existen y de que hacer para prevenirlos.
+
 ## ÍNDICE
 1. [Riesgos laborales](riesgoslaborales.md)
 2. [Prevención de riesgos desde un punto de vista informático](prevencion.md)
