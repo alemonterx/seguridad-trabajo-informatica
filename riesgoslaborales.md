@@ -15,6 +15,7 @@ Estos factores de riesgo dependen mucho del tipo de trabajo en el que se desempe
 
 ## 3. ¿Comó evitarlos?
 Estos accidentes causados por los riesgos laborales pueden evitarse o reducir su impacto tomando una serie de precauciones. También es cierto que las empresas deben de tener previsto todos esos peligros que pueden suceder creando un plan de prevención de riesgos laborales, con una serie de protocolos para poder prevenirlos y saber como actuar en caso de que se produzca algún accidente.
+
 A día de hoy las empresas cubren a sus trabajadores con seguros médicos para cubrir esos accidentes, y muchas de ellas contratan a un profesional cuya función es cuidar la higiene y la seguridad del lugar de trabajo.
 
 # REFERENCIAS
