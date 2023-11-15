@@ -3,7 +3,7 @@
 [![Actividad de proyecto](https://img.shields.io/badge/Actividad-yellow)](https://github.com/alemonterx/seguridad-trabajo-informatica/activity)
 [![Contribuciones](https://img.shields.io/badge/Contribuciones-green)](https://github.com/alemonterx/seguridad-trabajo-informatica/graphs/contributors)
 
-![Portada](img/portada.jpg)
+<img src="img/portada.jpg" alt="seguridad" width="900px">
 
 > En este proyecto vamos a hablar de los diferentes riesgos laborales que existen y de que hacer para prevenirlos.
 
