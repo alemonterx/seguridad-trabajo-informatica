@@ -1,6 +1,6 @@
 # SEGURIDAD EN EL TRABAJO
 
-[Portada](img/portada.jpg)
+![Portada](img/portada.jpg)
 
 ## ÍNDICE
 1. [Riesgos laborales](riesgoslaborales.md)
