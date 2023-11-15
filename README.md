@@ -1,5 +1,5 @@
 # SEGURIDAD EN EL TRABAJO
-[![Forks](https://github.com/alemonterx/seguridad-trabajo-informatica/forks)]
+[![Forks](https://github.com/alemonterx/seguridad-trabajo-informatica/forks)](https://github.com/PrestaShop/PrestaShop/network)
 
 ![Portada](img/portada.jpg)
 
