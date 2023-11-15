@@ -1,6 +1,7 @@
 # SEGURIDAD EN EL TRABAJO
 [![Forks proyecto](https://img.shields.io/badge/Forks-red)](https://github.com/alemonterx/seguridad-trabajo-informatica/forks)
 [![Actividad de proyecto](https://img.shields.io/badge/Actividad-yellow)](https://github.com/alemonterx/seguridad-trabajo-informatica/activity)
+[![Contribuciones](https://img.shields.io/badge/Contribuciones-green)](https://github.com/alemonterx/seguridad-trabajo-informatica/graphs/contributors)
 
 ![Portada](img/portada.jpg)
 
