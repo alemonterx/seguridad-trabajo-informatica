@@ -1,7 +1,5 @@
 # SEGURIDAD EN EL TRABAJO
-[![Forks](https://github.com/alemonterx/seguridad-trabajo-informatica/forks)](https://github.com/PrestaShop/PrestaShop/network)
-[![GitHub forks](https://img.shields.io/github/forks/PrestaShop/PrestaShop)]
-
+[![Forks proyecto](https://img.shields.io/badge/Forks-red)](https://github.com/alemonterx/seguridad-trabajo-informatica/forks)
 ![Portada](img/portada.jpg)
 
 > En este proyecto vamos a hablar de los diferentes riesgos laborales que existen y de que hacer para prevenirlos.
