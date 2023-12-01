@@ -83,8 +83,7 @@ recta y contrae los abdominales empujando la zona lumbar hacia el respaldo.
 
 ## Cuello
 
-<img src="img/5018580.png
-" width="300" height="200" />
+<img src="img/5018580.png" width="300" height="200" />
 
 1. Inclina la cabeza lentamente hacia arriba y hacia
 abajo.
@@ -92,8 +91,7 @@ abajo.
 
 ## Ojos
 
-<img src="img/curiosidadesdelosojos.png
-" width="300" height="200" />
+<img src="img/curiosidadesdelosojos.png" width="300" height="200" />
 
 
 
