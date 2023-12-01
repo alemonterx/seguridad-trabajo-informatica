@@ -22,6 +22,51 @@ Los reposamuñecas son accesorios diseñados para proporcionar apoyo y comodidad
 
 
 
+# Elementos psicosociales
+Los riesgos en el trabajo pueden afectar la salud de las personas de manera difícil de reconocer. Esto puede causar problemas como desmotivación, insatisfacción laboral, estrés y ausencias. 
+A menudo, se ve como un problema personal en lugar de ser causado por un mal diseño del trabajo o una organización deficiente.
+
+Para ello seguiremos algunas normas y consejos:
+
+## Técnicas de enriquecimiento del trabajo
+cambiar las tareas es decir tener una **variedad de tareas** para no estar quieto, por ejemplo: Utilizar la fotocopiadora,moverte por el area de trabajo,atender al publico,etc. Esto ayuda a cambiar la postura y descansar, lo cual es crucial para **reducir problemas musculoesqueléticos**.
+
+## Asignacion de tiempo a las tareas
+Una **buena organizacion** de tiempo ayuda no estresarse durante las tareas y poder finalizarlas a tiempo, lo cual es bueno ya que no recibes **estres constante** y puedes tomar **descansos**
+
+## Fomentar el trabajo en equipo
+Facilitar el intercambio
+de conocimientos entre el
+personal empleado con distintos grados de experiencia.
+
+## Promover prácticas de Responsabilidad Social Corporativa (RSC)
+Conciliación de la vida familiar, horarios flexibles, respeto al medio ambiente y la eliminación de la discriminación de género. Estas acciones resultan en un aumento de la satisfacción dentro de la organización.
+
+# Ejercicios musculares
+Son buenos para poder tener una buena salud fisica y minimizar el riesgo de tener problemas musculares y esqueleticos.
+
+## Espalda
+1. Coloca las manos detrás
+de la cabeza llevando los
+codos hacia atrás y acercando los omoplatos.
+1. Siéntate con la columna
+recta y contrae los abdominales empujando la zona lumbar hacia el respaldo.
+
+## Cuello
+1. Inclina la cabeza lentamente hacia arriba y hacia
+abajo.
+1. Inclina la cabeza lentamente de derecha a izquierda y de izquierda a derecha.
+
+## Ojos
+1. Relaja los ojos cerrándolos durante un tiempo o
+mirando a un lugar alejado.
+
+2. Mueve los ojos en todas
+las direcciones alzando las
+cejas.
+
+
+
 
 
 
