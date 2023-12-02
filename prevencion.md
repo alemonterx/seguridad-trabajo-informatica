@@ -105,7 +105,13 @@ cejas.
 <img src="img/jisus.png" width="20" height="20" />
 
 
+## Informacion sacada de estas paginas
 
+[enlace1](https://evalart.com/es/blog/psychosocial-risk-at-work-and-nom035/)
+
+[enlace2](https://www.ticarte.com/sites/su/users/7/arch/prevencion-riegos-laborales-informatica-comunicaciones.pdf)
+
+[enlace3](https://www.aeot.es/rsc-responsabilidad-social-corporativa/)
 
 
 
