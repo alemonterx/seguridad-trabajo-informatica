@@ -114,7 +114,7 @@ cejas.
 unos ejercicios importantes para todo informatico son los estiramientos de muñecas para prevenir el tunel carpiano,
 ademas de la tabla con ejercicios teneis estos enlaces a algunos videos para hacer estiramientos
 
-<img src="img/97650325_2857977727590920_5937451966396366848_n.jpg" width="300" height="200" />
+<img src="img/97650325_2857977727590920_5937451966396366848_n.jpg" width="300" height="300" />
 
 
 [Estiramientos tunel carpiano](https://www.youtube.com/watch?v=x_4xVFqDEuQ&t=109s)
