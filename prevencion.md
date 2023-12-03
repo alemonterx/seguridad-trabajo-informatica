@@ -78,8 +78,13 @@ pero para mejor salud es recomendable hacer algunos ejercicios como los siguient
 1. Coloca las manos detrás
 de la cabeza llevando los
 codos hacia atrás y acercando los omoplatos.
+
 2. Siéntate con la columna
 recta y contrae los abdominales empujando la zona lumbar hacia el respaldo.
+
+[Estiramientos espalda](https://www.youtube.com/watch?v=CPjhyTWNUI4)
+
+[Estiramientos cervicales](https://www.youtube.com/watch?v=NEqp5YXLhs8)
 
 ## Cuello
 
@@ -88,6 +93,8 @@ recta y contrae los abdominales empujando la zona lumbar hacia el respaldo.
 1. Inclina la cabeza lentamente hacia arriba y hacia
 abajo.
 2. Inclina la cabeza lentamente de derecha a izquierda y de izquierda a derecha.
+
+[Estiramientos cuello](https://www.youtube.com/shorts/GL0wcthrBdw)
 
 ## Ojos
 
@@ -101,6 +108,16 @@ mirando a un lugar alejado.
 2. Mueve los ojos en todas
 las direcciones alzando las
 cejas.
+
+## Manos y Muñecas
+
+unos ejercicios importantes para todo informatico son los estiramientos de muñecas para prevenir el tunel carpiano,
+ademas de la tabla con ejercicios teneis estos enlaces a algunos videos para hacer estiramientos
+
+<img src="img/97650325_2857977727590920_5937451966396366848_n.jpg" width="300" height="200" />
+
+
+[Estiramientos tunel carpiano](https://www.youtube.com/watch?v=x_4xVFqDEuQ&t=109s)
 
 <img src="img/jisus.png" width="20" height="20" />
 
